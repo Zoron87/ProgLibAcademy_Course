@@ -1,0 +1,33 @@
+## Игнорировать результаты сборки
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+## Игнорировать файлы пользовательских настроек IDE (Visual Studio, Rider)
+.vs/
+.vscode/
+*.user
+*.suo
+*.csproj.user
+
+## Игнорировать пакеты NuGet
+[Nn]u[Gg]et/
+*.nupkg
+packages/
+
+## Игнорировать результаты тестов
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Игнорировать файлы резервных копий
+*_Backup*/
+backup*/
+*.bak
+
+## Игнорировать локальные файлы с секретами (appsettings.Development.json часто содержит строки подключения)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Secrets.json
+
+## Игнорировать каталог запуска (для веб-приложений)
+[Pp]ublish/
