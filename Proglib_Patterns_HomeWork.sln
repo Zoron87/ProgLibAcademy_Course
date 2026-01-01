@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proglib_Patterns_HomeWork", "Proglib_Patterns_HomeWork\Proglib_Patterns_HomeWork.csproj", "{73A10978-5F69-46C5-AF3D-593A63E56A23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proglib_Patterns_HomeWork", "src\Proglib_Patterns_HomeWork.csproj", "{73A10978-5F69-46C5-AF3D-593A63E56A23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTests", "xUnitTests\xUnitTests.csproj", "{88A528EB-6EB4-4B16-8A10-4AC3D5A98FC7}"
 EndProject
