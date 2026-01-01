@@ -1,6 +1,9 @@
-﻿namespace Proglib_Patterns_HomeWork
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace Proglib_Patterns_HomeWork
 {
-    internal class Program
+    [ExcludeFromCodeCoverage]
+    public class Program
     {
         static void Main(string[] args)
         {
