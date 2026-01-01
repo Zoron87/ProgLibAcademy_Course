@@ -62,7 +62,7 @@ public class TestMoving
 
         // Act
         var move = new Move(mockMoveable.Object);
-        move.Execute();
+        //move.Execute();
 
         // Assert
         Assert.Throws<Exception>(() => move.Execute());

@@ -1,6 +1,6 @@
 ﻿namespace Proglib_Patterns_HomeWork.Models;
 
-public class Vector
+public record Vector
 {
     public int X { get; set; }
     public int Y { get; set; }
