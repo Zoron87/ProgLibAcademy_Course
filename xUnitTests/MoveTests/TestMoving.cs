@@ -1,7 +1,7 @@
 ﻿using Moq;
-using Proglib_Patterns_HomeWork.Abstractions;
-using Proglib_Patterns_HomeWork.Actions;
-using Proglib_Patterns_HomeWork.Models;
+using Proglib_Patterns_Course.Abstractions;
+using Proglib_Patterns_Course.Actions;
+using Proglib_Patterns_Course.Models;
 
 namespace xUnitTests.MoveTests;
 

@@ -1,6 +1,6 @@
-﻿using Proglib_Patterns_HomeWork.Models;
+﻿using Proglib_Patterns_Course.Models;
 
-namespace Proglib_Patterns_HomeWork.Abstractions;
+namespace Proglib_Patterns_Course.Abstractions;
 
 public interface IMoveable
 {

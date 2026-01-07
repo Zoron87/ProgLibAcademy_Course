@@ -1,6 +1,6 @@
-﻿using Proglib_Patterns_HomeWork.Abstractions;
+﻿using Proglib_Patterns_Course.Abstractions;
 
-namespace Proglib_Patterns_HomeWork.Actions;
+namespace Proglib_Patterns_Course.Actions;
 
 public class Move
 {

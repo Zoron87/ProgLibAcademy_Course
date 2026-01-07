@@ -1,4 +1,4 @@
-﻿namespace Proglib_Patterns_HomeWork.Models;
+﻿namespace Proglib_Patterns_Course.Models;
 
 public record Vector
 {
@@ -13,6 +13,6 @@ public record Vector
 
     public Vector Plus(Vector other)
     {
-        return new Vector(this.X + other.X, this.Y + other.Y);
+        return new Vector(X + other.X, Y + other.Y);
     }
 }
