@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\Proglib_Patterns_HomeWork.csproj" />
+    <ProjectReference Include="..\src\Proglib_Patterns_Course.csproj" />
   </ItemGroup>
 
   <ItemGroup>

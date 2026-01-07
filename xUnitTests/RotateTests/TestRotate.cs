@@ -1,6 +1,6 @@
 ﻿using Moq;
-using Proglib_Patterns_HomeWork.Abstractions;
-using Proglib_Patterns_HomeWork.Actions;
+using Proglib_Patterns_Course.Abstractions;
+using Proglib_Patterns_Course.Actions;
 
 namespace xUnitTests.RotateTests;
 
